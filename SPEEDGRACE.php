@@ -1,9 +1,7 @@
 {"Version":"1.1",
-"Url":"https://github.com/SPEED-GRACE/ROUY-VPN/raw/main/ruay.zip" ,
+"Url":"https://github.com/lahuya/SPEED-GRACE/raw/main/SPEEDGRACE.zip" ,
 "Changelog":"SPEED GRACE
-รายละเอียดภายในแอป
-แก้ไขรายละเอียดครับ 
-ทดลอง",
+ทดสอบ",
  
 
  
