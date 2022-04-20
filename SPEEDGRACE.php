@@ -1,7 +1,7 @@
 {"Version":"1.1",
 "Url":"https://github.com/lahuya/SPEED-GRACE/raw/main/SPEEDGRACE.zip" ,
 "Changelog":"SPEED GRACE
-แจ้งอัปเดตวันที่20-04-22
+แจ้งอัปเดตวันที่ 20-04-22
 เพิ่มเซิร์ฟเวอร์ CAT
 
 รองรับAIS&TRUE&DTAC",
